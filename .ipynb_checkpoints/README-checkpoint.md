@@ -6,6 +6,6 @@ Our group submission for the CS0010 Final Project -- using data to determine the
 
 - Wilson Biggs: wab41@pitt.edu
 - Aidan Lillis:
-- Jared Moynahan: 
+- Jared Moynahan: jpm172@pitt.edu
 
 ## Datasets used
