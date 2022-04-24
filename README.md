@@ -25,3 +25,7 @@ Our group submission for the CS0010 Final Project -- using data to determine the
         -Published By: City of Pittsburgh<br>
         -Description: A listing of all playground equipment maintained by the city, including a description, the manufacturer, included safety surface and whether or not it is ADA accessible.
         
+## Installation instructions
+Our data analysis uses the rtree and seaborn 0.11.2 libraries which are not installed on JupyterLab by default, and can be installed with the following instructions on the terminal.<br>
+pip install --user rtree <br>
+pip install --user seaborn==0.11.2 <br>
